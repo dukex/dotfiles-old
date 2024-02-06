@@ -4,7 +4,6 @@ declare -A profiles
 
 profiles=(
   ["p"]="emersonalmeidax@gmail.com"
-  ["w"]="emerson.almeida@youse.com.br"
   ["m"]="emerson@megafono.host"
 )
 
